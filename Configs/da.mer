@@ -1,0 +1,710 @@
+{
+  "Features": {
+    "EnchantmentColor": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Color": -8858926
+      }
+    },
+    "NoServerRotations": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {}
+    },
+    "DeathCoordinates": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {}
+    },
+    "ChunkAnimator": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {}
+    },
+    "PasswordHider": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {}
+    },
+    "HandTranslate": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "RightX": 0.0,
+        "RightY": 0.0,
+        "RightZ": 0.0,
+        "LeftX": 0.0,
+        "LeftY": 0.0,
+        "LeftZ": 0.0,
+        "Slow Animation": false,
+        "Custom Scale Right": false,
+        "Scale X Right": 1.0,
+        "Scale Y Right": 1.0,
+        "Scale Z Right": 1.0,
+        "Custom Scale Left": false,
+        "Scale X Left": 1.0,
+        "Scale Y Left": 1.0,
+        "Scale Z Left": 1.0
+      }
+    },
+    "AutoTPAccept": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Only Friends": false
+      }
+    },
+    "PersonViewer": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Viewer Yaw": 10.0,
+        "FOV Modifier": 4.0,
+        "Viewer Pitch": 10.0
+      }
+    },
+    "CustomModel": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Friend Highlight": true,
+        "Amogus Body Color Mode": "Custom",
+        "Amogus Eye Color Mode": "Custom",
+        "Amogus Legs Color Mode": "Custom",
+        "Amogus Body Color": -65536,
+        "Amogus Eye Color": -16711681,
+        "Amogus Legs Color": -65536,
+        "Googly Eyes": false,
+        "Google Eyes Size": 0.75,
+        "Only Me": true,
+        "Friends": false
+      }
+    },
+    "ClientSounds": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Volume": 0.5
+      }
+    },
+    "AutoUpgrade": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Mode": "Wood",
+        "Speed": 100.0
+      }
+    },
+    "NoSlowDown": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Mode": "Rustme"
+      }
+    },
+    "NameProtect": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Youtuber": false
+      }
+    },
+    "FakeCreative": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {}
+    },
+    "ItemSwapFix": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {}
+    },
+    "Optimization": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Grass": true,
+        "Shadow": true,
+        "Particles": true
+      }
+    },
+    "Notifications": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {}
+    },
+    "PlayerFinder": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Radius": 1000.0
+      }
+    },
+    "ItemScroller": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {}
+    },
+    "WaterSpeed": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Mode": "Matrix",
+        "Speed": 0.4,
+        "Speed Potion Check": false,
+        "Mini Jump": true,
+        "Boost": true,
+        "Check Flag": false
+      }
+    },
+    "AutoClicker": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Min Cps": 14.0,
+        "Max Cps": 17.0
+      }
+    },
+    "KillMessage": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {}
+    },
+    "DiscordRPC": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {}
+    },
+    "CustomFog": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Custom Color": -1,
+        "Fog Distance": 0.01
+      }
+    },
+    "Predictions": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {}
+    },
+    "MiddleClick": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Friend": false,
+        "Pearl": true
+      }
+    },
+    "JumpCircle": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Radius": 1.0,
+        "Shadow": 25.0,
+        "Speed": 1.0
+      }
+    },
+    "AutoArmor": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "openInventory": true,
+        "Delay": 1.0
+      }
+    },
+    "WorldColor": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Color": -1
+      }
+    },
+    "BetterChat": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Remove Rect": false,
+        "Anti Spam": false,
+        "Chat Animation": false,
+        "Save History": false
+      }
+    },
+    "FakePlayer": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {}
+    },
+    "ShaderESP": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Color Mode": "Client",
+        "Glow Color": -26369,
+        "Radius": 10.0,
+        "Alpha": 2.0
+      }
+    },
+    "WorldTime": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Time": 1000.0
+      }
+    },
+    "NoInteract": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Object": ""
+      }
+    },
+    "NameTags": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Show Potions": true
+      }
+    },
+    "NoOverlay": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Element": ""
+      }
+    },
+    "FullBright": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {}
+    },
+    "EntityESP": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Elements Selection Players": "",
+        "Elements Flags": "",
+        "Box Color": -1,
+        "Triangle Color": -1,
+        "ignore Invisible": false,
+        "XOffset": 20.0,
+        "YOffset": 0.0,
+        "Size": 3.0,
+        "Bot Esp": false,
+        "Mode Esp": "2D",
+        "Elements Selection Npc": "",
+        "Outline": true,
+        "lineWidth": 0.1,
+        "Elite Bot": -1929389312,
+        "Default Bot": -1946091568
+      }
+    },
+    "Crosshair": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Mode": "Circle",
+        "Gap": 1.0,
+        "Width": 0.5,
+        "Size": 4.0,
+        "Custom Color": -1,
+        "Circle Width": 3.0,
+        "Dynamic": false,
+        "Client Color": false
+      }
+    },
+    "AutoPeek": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Speed": 1.0,
+        "Use Timer": false,
+        "Timer Speed": 5.0,
+        "Safe Distance": 4.0,
+        "Render Safe Distance": true,
+        "Render Start Point": true,
+        "Style Start Point": "Circle",
+        "FakeLag": false
+      }
+    },
+    "Spammer": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Delay": 1500.0,
+        "Message": "Хавзки хуесос!"
+      }
+    },
+    "AutoMine": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Distance": 5.0
+      }
+    },
+    "FastPeek": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Ticks": 2.5
+      }
+    },
+    "ChinaHat": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Outline Width": 1.0
+      }
+    },
+    "HitSound": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Mode": "Bell"
+      }
+    },
+    "Compass": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Glow": false,
+        "Mode": "Type1"
+      }
+    },
+    "Staff List": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {}
+    },
+    "WallHack": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "WallHack": false,
+        "Text": false,
+        "Locked crate": false,
+        "Basic crate": false,
+        "Heal box": false,
+        "Red barrel": false,
+        "Blue barrel": false,
+        "Military crate": false,
+        "Copter": false,
+        "Elite crate": false,
+        "Air defense": false,
+        "Default barrel": false,
+        "Eat box": false,
+        "Cupboard": false,
+        "Corpse player": false,
+        "Mushroom": false,
+        "Sleeping player": false,
+        "Default boat": false,
+        "Cloth": false,
+        "Tool box": false,
+        "Oil barrel": false,
+        "Corpse bot": false,
+        "Red Card": false,
+        "Green Card": false,
+        "Airdrop": false,
+        "Bag": false,
+        "Large box": false,
+        "Furnace": false,
+        "Cupboard save position": false,
+        "Large box save position": false,
+        "Furnace save position": false,
+        "Info": false
+      }
+    },
+    "FreeCam": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {}
+    },
+    "Particles": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Category": "Cross"
+      }
+    },
+    "Airshoot": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Mode": "Bypass",
+        "Current Gun": 1.0,
+        "Swap Slot": 1.0
+      }
+    },
+    "ClickGUI": {
+      "state": false,
+      "keyIndex": 54,
+      "Settings": {
+        "Mode": "Reload",
+        "Png mode": "None",
+        "Color": -15513685,
+        "Glow": false,
+        "Category Custom": false
+      }
+    },
+    "InfoItem": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {}
+    },
+    "ItemESP": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {}
+    },
+    "FakeLag": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Delay": 25000.0
+      }
+    },
+    "Disabler": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Mode": "Vulcan strafe"
+      }
+    },
+    "AntiAim": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Mode": "NORMAL",
+        "Speed": 25.0,
+        "Protection": true
+      }
+    },
+    "AntiAFK": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Spin": true,
+        "Jump": true,
+        "Send Message": true,
+        "Click": true
+      }
+    },
+    "NoDelay": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Jump": true,
+        "Right Click": false
+      }
+    },
+    "GuiWalk": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {}
+    },
+    "AntiBot": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Mode": "Rustme",
+        "Tick Check": true,
+        "Range": 7.0
+      }
+    },
+    "NoPush": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {}
+    },
+    "ExpInfo": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {}
+    },
+    "AimBot": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Range": 100.0,
+        "FOV": 40.0,
+        "Fov Render": false,
+        "Fov Category": "Circle",
+        "Predict Hunting Bow": 3.5,
+        "Predict AK-47": 3.5,
+        "Predict LR-300": 3.5,
+        "Predict Semi-Automatic Rifle": 3.5,
+        "Predict Thompson": 3.5,
+        "Predict MP5": 3.5,
+        "Predict Spas-12": 3.5,
+        "Predict Pump Shotgun": 3.5,
+        "Predict Custom SMG": 3.5,
+        "Predict M92": 3.5,
+        "Predict Double Barrel": 3.5,
+        "Predict Pipe Shotgun": 3.5,
+        "Predict HMLMG": 3.5,
+        "Predict Revolver": 3.5,
+        "Predict Bolt Action": 3.5,
+        "Predict Grenade Launcher": 3.5,
+        "Predict Python": 3.5,
+        "Predict Nailgun": 3.5,
+        "Predict Semi-Automatic pistol": 3.5,
+        "Predict M39": 3.5,
+        "Predict M249": 3.5,
+        "Predict Prototype": 3.5,
+        "Predict (Default)": 3.5,
+        "Prediction": "Static",
+        "Type Silent": "Old",
+        "SortMode": "Angle",
+        "Targets": "",
+        "Predict all gun rustme": false,
+        "Hunting Bow": false,
+        "Bow Y+": 0.0,
+        "Smart hitbox": false,
+        "Auto Shoot": false,
+        "Shot Delay": 1.0,
+        "Mode Shoot": "Rustme",
+        "Target Esp": false,
+        "Circle Speed": 2.0
+      }
+    },
+    "Tracers": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Color": -1,
+        "Line Width": 2.0
+      }
+    },
+    "Clipper": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Mode": "DOWN",
+        "Phase": "NCP",
+        "LuckyDayz": false
+      }
+    },
+    "Chams": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Visible Chams Color": -1,
+        "Hidden Chams Color": -65022,
+        "Chams Mode": "Fill"
+      }
+    },
+    "HitBox": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Size": 0.2
+      }
+    },
+    "Sprint": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Multi": false
+      }
+    },
+    "Strafe": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Mode": "Legit"
+      }
+    },
+    "Jesus": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Mode": "Matrix Solid",
+        "Speed": 13.0
+      }
+    },
+    "Radio": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Mode": "IloveRadio"
+      }
+    },
+    "Timer": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Timer Value": 2.0,
+        "Smart": true,
+        "Moving Up": 0.0
+      }
+    },
+    "Trails": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Delete through": 100.0
+      }
+    },
+    "Glass": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Mode": ""
+      }
+    },
+    "Nimb": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Trails Color": "Astolfo",
+        "One Color": -1,
+        "Two Color": -1,
+        "Saturation": 0.7
+      }
+    },
+    "XRay": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "BrutForce": false,
+        "Rustme": false,
+        "CheckSpeed": 4.0,
+        "Render Distance": 35.0,
+        "Radius XZ": 20.0,
+        "Radius Y": 6.0
+      }
+    },
+    "Hud": {
+      "state": true,
+      "keyIndex": 0,
+      "Settings": {
+        "Elements": "Watermark\n",
+        "Mode Style": "Client",
+        "Radar Elements": "",
+        "Radar Size": 70.0,
+        "Font Mode": "Rubik",
+        "Client Color": "Static",
+        "List Elements": "",
+        "Suffix": "None",
+        "List Limitations": "",
+        "Color Offset": 2.0,
+        "Mode ArrayList": "Type2",
+        "Color": -15513685,
+        "Two Color": -13422030,
+        "Color Speed": 5.0
+      }
+    },
+    "Clip": {
+      "state": false,
+      "keyIndex": 0,
+      "Settings": {
+        "Mode Clip": "Horse",
+        "Mode": "UP",
+        "Clip": 10.0,
+        "Delay": 0.1,
+        "Forward AutoLeave": false
+      }
+    }
+  }
+}
